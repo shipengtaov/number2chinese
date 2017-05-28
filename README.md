@@ -26,3 +26,8 @@
 #### unittest:
 
 	pytest
+
+
+### License
+
+MIT
